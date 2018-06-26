@@ -23,7 +23,6 @@ Baseado no conteúdo do nosso livro de estudo e nas aulas ao vivo, elabore um pr
 
 ![GitHub issue age](https://img.shields.io/badge/size-5%2C18%20kB-brightgreen.svg)
 
-![GitHub issue age](https://img.shields.io/hexpm/l/plug.svg)
 
 
 
